@@ -1,0 +1,35 @@
+
+***** tuning parameters for aefs_result_warpPIE10P.txt*****
+Clustering using all the 2420 features. Clustering MIhat: 0.29889, std: 0.034151
+Selected feature num: 2420, Clustering ACC: 0.27952, std: 0.02318
+Selected feature num: 2420, Classification ACC: 1
+
+***** tuning parameters for aefs_result_warpPIE10P.txt*****
+Clustering using all the 2420 features. Clustering MIhat: 0.29889, std: 0.034151
+Selected feature num: 2420, Clustering ACC: 0.27952, std: 0.02318
+Selected feature num: 2420, Classification ACC: 1
+1th param result
+Selected feature num: 50, Clustering MIhat: 0.46849
+Selected feature num: 50, Clustering ACC: 0.42667
+Selected feature num: 50, Classification ACC: 0.96667
+Selected feature num: 100, Clustering MIhat: 0.55174
+Selected feature num: 100, Clustering ACC: 0.50286
+Selected feature num: 100, Classification ACC: 0.98571
+Selected feature num: 150, Clustering MIhat: 0.53834
+Selected feature num: 150, Clustering ACC: 0.47643
+Selected feature num: 150, Classification ACC: 0.99048
+Selected feature num: 200, Clustering MIhat: 0.50824
+Selected feature num: 200, Clustering ACC: 0.46167
+Selected feature num: 200, Classification ACC: 0.99048
+Selected feature num: 250, Clustering MIhat: 0.48586
+Selected feature num: 250, Clustering ACC: 0.4419
+Selected feature num: 250, Classification ACC: 0.99048
+Selected feature num: 300, Clustering MIhat: 0.49143
+Selected feature num: 300, Clustering ACC: 0.43738
+Selected feature num: 300, Classification ACC: 0.99048
+
+ Best: Selected feature num: 100, Clustering MIhat: 0.55174, std: 0.045868
+
+ Best: Selected feature num: 100, Clustering ACC: 0.50286, std: 0.055584
+
+ Best: Selected feature num: 150, Classification ACC: 0.99048
