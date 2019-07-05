@@ -3,9 +3,6 @@ clear;clc;close all;
 % Kai Han, Yunhe Wang, Chao Zhang, Chao Li, Chao Xu
 % AutoEncoder Inspired Unsupervised Feature Selection
 % ICASSP 2018
-% 
-% code author: Kai Han
-% contact: kaihana@163.com
 %
 %% add path
 addpath('./AEFS/activation_function');
